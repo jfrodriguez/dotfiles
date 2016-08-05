@@ -1,0 +1,13 @@
+syntax enable
+set background=dark
+colorscheme solarized
+set ttyfast
+set backspace=indent,eol,start
+set tabstop=4
+set expandtab
+set softtabstop=4 
+set shiftwidth=4
+set ignorecase
+set hlsearch
+set incsearch
+set hlsearch
