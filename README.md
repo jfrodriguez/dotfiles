@@ -3,5 +3,5 @@
 ```
 $ git clone https://github.com/jfrodriguez/dotfiles
 $ cd dotfiles
-$ cp -R .* $HOME
+$ cp -R .vim* $HOME
 ```
