@@ -10,4 +10,3 @@ set shiftwidth=4
 set ignorecase
 set hlsearch
 set incsearch
-set hlsearch
