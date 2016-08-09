@@ -2,6 +2,6 @@
 
 ```
 $ git clone https://github.com/jfrodriguez/dotfiles
-$ cd dotfiles
-$ cp -R .vim* $HOME
+$ cd dotfiles; cp vimrc $HOME
+
 ```

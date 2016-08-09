@@ -1,6 +1,3 @@
-syntax enable
-set background=dark
-colorscheme solarized
 set ttyfast
 set backspace=indent,eol,start
 set tabstop=4
