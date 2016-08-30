@@ -1,6 +1,5 @@
 syntax enable
 set background=light
-set ttyfast
 set backspace=indent,eol,start
 set tabstop=4
 set expandtab
